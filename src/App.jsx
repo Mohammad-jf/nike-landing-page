@@ -12,7 +12,7 @@ import Nav from './components/Nav'
 
 
 const App = () => (
-  <main className=" relative">
+  <main className="relative">
     <Nav/>
 
 
